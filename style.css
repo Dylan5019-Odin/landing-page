@@ -3,6 +3,7 @@
 body {
     margin: 0;
     padding: 0;
+        flex: 1;
    
 }
 
@@ -147,7 +148,7 @@ button {
 .cta-section {
     display: flex;
     justify-content: center;
- 
+
 } 
 
 .cta-box {
@@ -186,5 +187,13 @@ button {
     align-self: center;
     border: solid 1px white;
     border-radius: 5px;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 25px;
 }
 
