@@ -86,15 +86,16 @@ button {
 }
 
 .middle-section {
-    background-color: grey;
     display: flex;
     flex-direction: column;
+    padding-bottom: 50px;
 }
 
 .info-header {
     display: flex;
     justify-content: center;
     align-content: center;
+    color: #1f2937
 }
 
 .info-section {
@@ -103,18 +104,18 @@ button {
 }
 
 .info-boxes {
-    height: 100px;
-    width: 100px;
-    margin: 10px 25px;
-    border: solid #32a1ce;
-    border-radius: 4px;
+    height: 125px;
+    width: 125px;
+    margin: 10px 20px;
+    border: solid #3882f6;
+    border-radius: 10px;
 }
 
 .info-section p {
-    margin: 0px 25px;
+    margin: 0px 20px;
     flex-wrap: wrap;
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     text-align: center;
     font-size: 12px;
 }
