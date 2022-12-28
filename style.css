@@ -143,3 +143,48 @@ button {
     font-size: 24px;
     margin: 0;
 }
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+ 
+} 
+
+.cta-box {
+    width: 50rem;
+    height: auto;
+    margin: 75px;
+    padding: 10px;
+    border: solid #3882f6;
+    border-radius: 10px;
+    background-color: #3882f6;;
+}
+
+.cta-box-text {
+    display: flex;
+    justify-content: space-between; 
+    margin: 0 50px;
+    color: white;
+    
+}
+
+.cta-header {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.cta-subtext {
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.cta-text {
+    margin: 10px;
+}
+
+.cta-button {
+    align-self: center;
+    border: solid 1px white;
+    border-radius: 5px;
+}
+
