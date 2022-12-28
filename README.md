@@ -1,7 +1,7 @@
 # landing-page
 The Odin Project: Foundations - Landing Page  
    This landing page is a project that I did for the Odin Project. In this landing page project I learned  
-   a lot about using HTML elements alongside CSS to create a web page that matches a givin design.   
+   a lot about using HTML elements alongside CSS to create a web page that matches a given design.   
   
   
   
